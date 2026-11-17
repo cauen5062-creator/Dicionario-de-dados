@@ -293,7 +293,7 @@ table.dic :is(th, td):nth-child(7) { width: 14%; }
     font-size: 11px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--texto-suave);
   }
   table.dic td.col-atributo { background: var(--codigo-fundo) !important; }
-  .der-controles { left: 50%; right: auto; transform: translateX(-50%); bottom: 14px; }
+   .der-controles { left: 50%; right: auto; transform: translateX-50%); bottom: 14px; }
 }
 
 /* ------------------------------------------------------------------ impressão */
